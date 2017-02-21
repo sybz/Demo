@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>New item</key>
+	<array>
+		<dict>
+			<key>Display Name</key>
+			<string>IconTest</string>
+			<key>Bundle Identifier</key>
+			<string>com.sean.IconInfo11021</string>
+			<key>Version</key>
+			<string>1.1.0</string>
+			<key>Build</key>
+			<string>21</string>
+		</dict>
+		<dict>
+			<key>Display Name</key>
+			<string>IconTest</string>
+			<key>Bundle Identifier</key>
+			<string>com.sean.IconInfo21021</string>
+			<key>Version</key>
+			<string>2.1.0</string>
+			<key>Build</key>
+			<string>21</string>
+		</dict>
+		<dict>
+			<key>Display Name</key>
+			<string>IconRelease</string>
+			<key>Bundle Identifier</key>
+			<string>com.sean.IconInfo3003</string>
+			<key>Version</key>
+			<string>3.0.0</string>
+			<key>Build</key>
+			<string>3</string>
+		</dict>
+	</array>
+</dict>
+</plist>
